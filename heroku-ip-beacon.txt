@@ -1,0 +1,14 @@
+Host
+ec2-107-21-126-201.compute-1.amazonaws.com
+
+Database
+daq10bp74mmn86
+
+User
+fuafediflrqxjy
+
+Port
+5432
+
+Password
+18f46088b62751ebb9f8129ab96232aae756c64108ac8babbc14639a0ae346dc
