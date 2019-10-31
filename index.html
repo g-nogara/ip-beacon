@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-deep_purple.min.css" />
+    <script defer src="material.js"></script>
+    <script defer src="index.js"></script>
+    <link rel="manifest" href="manifest.json">
+    <title>Login - Interplanar Beacon</title>
+</head>
+
+<body>
+    <style>
+        .login-card.mdl-card {
+            width: 512px;
+        }
+
+        .login-card>.mdl-card__title {
+            height: 412px;
+            background: url('./img/logo.png') center / cover;
+            /* 
+            #281a41 fundo 
+            #ad51c9 nome 
+            #ad51c9 slogan 
+            #744fc4 ícone 
+            */
+        }
+    </style>
+    <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--4-col"></div>
+        <div class="mdl-cell mdl-cell--4-col login-card mdl-card mdl-shadow--2dp" style="text-align: center;">
+            <div class="mdl-card__title"></div>
+            <div class="mdl-card__supporting-text">
+                A great way to ensure you'll always
+                have someone to play with!
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <form action="#">
+                    <div class="mdl-textfield mdl-js-textfield">
+                        <input class="mdl-textfield__input" type="text" id="login">
+                        <label class="mdl-textfield__label" for="login">Email</label>
+                    </div>
+                    <div class="mdl-textfield mdl-js-textfield">
+                        <input class="mdl-textfield__input" type="text" id="password">
+                        <label class="mdl-textfield__label" for="password">Password</label>
+                    </div>
+                    <br><br>
+                    <div>
+                        <button style="background-color: #744fc4;"
+                            class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+                            Login
+                        </button>
+                        <br><br>
+                    </div>
+                    Don't have an account? <a href="" style="color: #744fc4;">Sign up!</a>
+            </div>
+        </div>
+        </form>
+    </div>
+</body>
+
+</html>

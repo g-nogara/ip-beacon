@@ -1,0 +1,26 @@
+node + npm => https://nodejs.org/en/
+
+Gerador de manifest.json => https://app-manifest.firebaseapp.com/
+
+Cursos Gratuitos => https://rocketseat.com.br/
+
+Livros gratuitos => https://www.packtpub.com/free-learning
+
+Cursos => https://www.sololearn.com/
+
+funções para acessar recursos de dispositivos móveis => https://whatwebcando.today/
+
+Biblioteca para dar apar�ncia de aplicativo => https://getmdl.io/
+
+Heroku => https://www.heroku.com/
+
+ViaCEP => viacep.com.br/ws/01001000/json/
+
+plugin para fazer localhost em tempo de desenvolvimento => https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
+
+
+
+
+
+
+
